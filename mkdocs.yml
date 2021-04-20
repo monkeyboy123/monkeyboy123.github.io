@@ -1,1 +1,5 @@
 site_name: My Docs
+nav:
+    - Home: docs/index.md
+    - About: docs/about.md
+heme: jekyll-theme-cayman
